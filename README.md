@@ -10,7 +10,8 @@ Welcome to the official documentation for **HLA-DR4Pred**, a computational tool 
 
 Bhasin, M., & Raghava, G. P. S. (2004). 
 **SVM based method for predicting HLA-DRB1*0401 binding peptides in an antigen sequence.** *Bioinformatics*, 20(3), 421-423. 
-[https://doi.org/10.1093/bioinformatics/btg424](https://doi.org/10.1093/bioinformatics/btg424)
+[https://doi.org/10.1093/bioinformatics/btg424](https://doi.org/10.1093/bioinformatics/btg424)  
+zonedo:-(https://doi.org/10.5281/zenodo.20096721)
 
 ---
 
