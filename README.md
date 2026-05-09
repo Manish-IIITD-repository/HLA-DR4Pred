@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **HLA-DR4Pred**, a computational tool developed to predict HLA-DRB1*0401 binding peptides in an antigenic sequence. Identifying these peptides is essential for reducing the experimental workload required to find helper T-cell epitopes, which are crucial for vaccine design and understanding autoimmune diseases.
 
-**Web Server:** [http://www.imtech.res.in/raghava/hladr4pred/](http://www.imtech.res.in/raghava/hladr4pred/)
+**Web Server:** [http://www.imtech.res.in/raghava/hladr4pred/](http://www.imtech.res.in/raghava/hladr4pred/)(https://webs.iiitd.edu.in/raghava/hladr4pred)
 
 ---
 
